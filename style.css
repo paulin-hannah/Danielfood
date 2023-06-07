@@ -1,0 +1,43 @@
+body{
+    font-family: sans-serif;
+    font-size: larger;
+    background-color: whitesmoke;
+   
+}
+h1, p {
+    text-align: center;
+}
+.container {
+    width: 50vw;
+    height: 50vh;
+    margin: auto;
+   
+   /* background-color: aqua; */
+
+}
+input, textarea {
+    border-radius: 20px;
+}
+
+.container , #form{
+    background-color: rgb(69, 28, 150);
+    color: white;
+}
+button{
+    background-color: rgb(82, 16, 66);
+    color: white;
+    font-size: larger;
+    
+}
+#table{
+    color: rgba(154, 119, 14, 0.938);
+}
+ul{
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+}
+
+/* #foods , #container{
+    background-color: aqua;
+} */
